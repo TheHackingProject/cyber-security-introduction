@@ -1,8 +1,7 @@
 
 ## 1 Introduction
 
-Ici vous allez devoir dechiffrez le message qui a ete chiffre grace a une methode de vigenere.
-
+Ici vous allez devoir déchiffrez le message qui a été chiffré grâce a une méthode de vigenere.
 
 ## 2. Le message a dechiffrer
 ```
@@ -21,10 +20,9 @@ Voici l'analyse de frequence du message original
 ![](https://github.com/bafraikin/ressource_thp_cursus_secu/blob/master/ressources/jour_03/Screenshot%202022-03-02%20at%2016-05-54%20Frequency%20Analysis%20101%20Computing.png?raw=true)
 
 ## 3 Rendu attendu
-**Retrouvez la clé que j’ai utilisé pour chiffrer ce message.**
+**Retrouvez la clé que j’ai utilisée pour chiffrer ce message.**
 
 
-La notion a retenir ici est qu'il existe une infinité de façon de chiffrer son message, mais dès qu’on va savoir isoler une répétition et en extraire une empreinte par fréquence, le sens caché apparaîtra.
+La notion a retenir ici est qu'il existe une infinité de façons de chiffrer son message, mais dès qu’on va savoir isoler une répétition et en extraire une empreinte par fréquence, le sens caché apparaîtra. 
 
-Ces méthodes vous sont presenté autrement via cette ![video de ScienceEtonnante](https://www.youtube.com/watch?v=z4tkHuWZbRA)
-
+Ces méthodes vous sont présentées autrement via cette ![vidéo de ScienceEtonnante](https://www.youtube.com/watch?v=z4tkHuWZbRA)

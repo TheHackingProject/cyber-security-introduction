@@ -1,23 +1,27 @@
 #Jour 2 Google dorks et reconnaissance
 
 ## 1. Introduction
-Il est possible sur internet de faire des recherche grace a des moteurs de recherches, mais savez vous que vous pouvez aussi rechercher directement qui est vulnerable a votre faille prefere ?
+Il est possible sur internet de faire des recherches grâce à des moteurs de recherches, mais savez-vous que vous pouvez aussi rechercher directement qui est vulnérable à votre faille préférée ? 
 
-Aujourd’hui vous allez apprendre à explorer le web et à utiliser google comme vous ne l’avez jamais connu.
-C’est aujourd’hui que vous allez vraiment retourner le web entièrement pour retrouver le site web vulnérable de vos rêves.
+Aujourd’hui vous allez apprendre à explorer le web et à utiliser Google comme vous ne l’avez jamais connu. 
+C’est aujourd’hui que vous allez vraiment retourner le web entièrement pour retrouver le site web vulnérable de vos rêves. 
 Vous utiliserez aussi les connaissances d’hier.
 
 ![image](https://media4.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif)
 
 ## 2. Historique  et contexte
-Les moteurs de recherche indexent d'eux meme les informations et les sites disponible sur le net. Et surtout, ils permettent de rechercher dans cette masse d'information qu'il possedent. Il permettent aussi de specifier precisement qu'elle type de contenu ou dans quelle zone vous voulez rechercher.
-Ce mecanisme peut etre abuse et tourne a votre avantage.
+
+Les moteurs de recherche indexent d'eux-mêmes les informations et les sites disponibles sur le net. Et surtout, ils permettent de rechercher dans cette masse d'information qu'ils possèdent. Ils permettent aussi de spécifier précisément quel type de contenu ou dans quelle zone vous voulez rechercher. 
+Ce mécanisme peut être abusé et tourné à votre avantage.
+
 
 ## 3. Les googles dorks.
 ### 3.1 les operateurs
+
 Aujourd'hui on va se concentrer sur Google.
-Pour la recherche google le concept est simple:
-La plupart des moldus utilisent la recherche dans un moteur de recherche de cette façon “recette flan” puis google leur remonte les meilleurs liens en fonction de son algorithme. Mais il existe des façons de lui imposer certains trucs dans les recherches.
+
+Pour la recherche Google le concept est simple:
+La plupart des moldus utilisent la recherche dans un moteur de recherche de cette façon “recette flan” puis Google leur remonte les meilleurs liens en fonction de son algorithme. Mais il existe des façons de lui imposer certains trucs dans les recherches.
 
 
 Je vous laisse faire la recherche ***google advanced search operators***
@@ -27,7 +31,7 @@ Tout ça va vous permettre de faire des choses dingues comme
 ```
 intext: password inurl: pastebin.com
 ```
-dans google
+dans Google
 ou encore
 ```
 inurl:thehackingproject.org intext:pares-feux
@@ -35,8 +39,7 @@ inurl:thehackingproject.org intext:pares-feux
 ![power](https://pbs.twimg.com/media/Da-a-9SX0AAc_-C.jpg)
 
 
-
-#### Sachez que chaque moteur de recherche possede ce genre de regle. Il faut juste aller chercher les mots cles magique et reproduire les logiques.
+**Sachez que chaque moteur de recherche possède ce genre de regles. Il faut juste aller chercher les mots-clés magiques et reproduire les logiques.**
 
 
 
@@ -49,8 +52,7 @@ intitle: robots.txt inurl: lemonde.fr
 dans Google.
 
 Cette recherche vous permet de trouver l’url simplement du fichier robots.txt du site lemonde.fr
-Où on y voit que lemonde.fr ne veut pas que google index l’url “/blog/\*/wp-login.php”.
-C’est l’url de login des gens qui possèdent un blog sur le monde.  Et c'est assez logique que *Le Monde* ne veuille pas que ça soit referencé dans google. ça ferait desordre. L'url devient assez facilement retrouvable “https://www.lemonde.fr/blog/wp-login.php”.
+Où on y voit que lemonde.fr ne veut pas que google index l’URL “/blog/\*/wp-login.php”. C’est l’URL de login des gens qui possèdent un blog sur le monde. Et c'est assez logique que *Le Monde* ne veuille pas que ça soit référencé dans Google. Ça ferait désordre. L'URL devient assez facilement retrouvable “https://www.lemonde.fr/blog/wp-login.php”.
 Ce genre de mécanisme peut permettre de découvrir et d’obtenir des informations sur une cible.
 
 Parfois rechercher avec l'opérateur “filetype: pdf inurl:entreprise.com” va permettre de retrouver des fichiers pdf qui sont accessibles sans se connecter et
@@ -77,7 +79,7 @@ C'est un truc un peu capricieux mais quand ça marche c'est fou
 
 ![too much power](https://ih1.redbubble.net/image.507832378.5398/pp,840x830-pad,1000x1000,f8f8f8.u2.jpg)
 
-Cette petite recherche anodine va vous permettre de retrouver certains mail. Dont celui d'un Certain Charles Dacquay ou encore celui de Felix.
+Cette petite recherche anodine va vous permettre de retrouver certains mails. Dont celui d'un Certain Charles Dacquay ou encore celui de Félix.
 
 C’est très important que vous compreniez le potentiel de cet outil. C’est évidemment possible sur d’autres moteurs de recherche, mais chaque moteur de recherche possède ses propres variantes et ses propres mots clés.
 

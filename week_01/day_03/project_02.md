@@ -7,25 +7,19 @@ Vous allez devoir craquer le hash d'un mot de passe grace a un mot de passe que 
 
 ## 2. Le projet
 ### Craquer mon nouveau mot de passe grace a mon ancien mot de passe
-Aujourd’hui vous allez partir de mon ancien mot de passe de l'autre jours.
-Si vous ne savez pas, vous pouvez l'obtenir à partir de [ce site](https://breachdirectory.org/) et de mon adresse mail `baptiste.fraikinfranklin@laposte.net`
 
-Vous aurez un petit hash à cracker mais ce sera bien plus simple. *Souvenez vous de hashes.com*
+Aujourd’hui vous allez partir de mon ancien mot de passe de l'autre jour. Si vous ne savez pas, vous pouvez l'obtenir à partir de [ce site](https://breachdirectory.org/) et de mon adresse mail `baptiste.fraikinfranklin@laposte.net` 
 
-Maintenant que vous possedez mon ancien mot de passe.
-A partir de celui ci vous aller essayer de cracker le hash suivant pour obtenir le mot de passe originel.
+Vous aurez un petit hash à cracker, mais ce sera bien plus simple. *Souvenez-vous de hashes.com* 
 
-```
-3718ac27830f8a8b5c514bf055327e4a19072ed8ea5586e3f145df7ca09bdcc82d46faf809cf3a2f40301175eff47daf2af7dde33ee400698e608f88a79089df
-```
+Maintenant que vous possédez mon ancien mot de passe.
+À partir de celui-ci vous allez essayer de cracker le hash suivant pour obtenir le mot de passe originel. ``` 3718ac27830f8a8b5c514bf055327e4a19072ed8ea5586e3f145df7ca09bdcc82d46faf809cf3a2f40301175eff47daf2af7dde33ee400698e608f88a79089df ``` 
 
 ***à vous de trouver les outils nécessaires.***
 
 ## 3. Rendu
 
-Redigez un petit texte qui explique comment vous avez reussi a retrouver le bon mot de passe et comment une personne devrais se premunir de ce genre d'attaque.
-
-
+Rédigez un petit texte qui explique comment vous avez réussi à retrouver le bon mot de passe et comment une personne devrait se prémunir de ce genre d'attaque.
 
 
 ![indice_1](https://raw.githubusercontent.com/bafraikin/ressource_thp_cursus_secu/master/ressources/jour_03/indice_1.jpg)
