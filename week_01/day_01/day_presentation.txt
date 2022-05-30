@@ -1,1 +1,2 @@
-Description de la première journée au format texte et en un paragraphe.
+Aujourd'hui tu vas découvrir le monde des bases de données volées et accessible sur internet et tout ce que cela implique.
+Tu seras ensuite invité à effectuer ton 1er hack

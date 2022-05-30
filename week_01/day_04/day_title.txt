@@ -1,1 +1,1 @@
-Titre de la quatrième journée
+Les vulnerabilités connues et les programmes qui les exploite.
