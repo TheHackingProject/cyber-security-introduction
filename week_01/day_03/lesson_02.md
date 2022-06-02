@@ -3,7 +3,7 @@
 On va d'abord chercher à donner la différence entre chiffrement et encodage. Puis vous apprendrez que l'humain est incapable de générer de l'aléatoire et de le retenir de manière efficiente. Et donc qu'à partir d'une somme d'informations il est souvent possible de deviner le mot de passe de quelqu'un. Grâce à une attaque par dictionnaire.
 
 ## 2. Contexte
-es moldus font souvent la confusion entre un encodage et un algorithme de chiffrement. 
+Les moldus font souvent la confusion entre un encodage et un algorithme de chiffrement. 
 Ce qui fait qu'ils ne font pas la différence entre un QR code/code barre et un hash de mot de passe. 
 Ce n'est pas un hasard si les deux 1ers ont "code" dans leurs noms.
 
@@ -19,7 +19,7 @@ https://twitter.com/MathisHammel/status/1418846453590544396?s=20
 - ici ce qu’il contient
 https://twitter.com/cyclOptimiste/status/1400752758098219014?s=20
 
-La meconnaissance de cette non securité peut amener à la creation d'article de blog genialissime. Ainsi nous avons pu avoir **[le meilleur billet de blog du monde](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram)** L'histoire d'un homme qui a pu obtenir le numero de passport d'un 1er ministre.
+La meconnaissance de cette non securité peut amener à la creation d'article de blog génialissime. Ainsi nous avons pu avoir **[le meilleur billet de blog du monde](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram)** L'histoire d'un homme qui a pu obtenir le numero de passport d'un 1er ministre.
 
 Parfois certains systèmes informatiques vont directement se reposer sur le fait que les gens ignorent que le QR code n'est pas sécurisé. Comme la montre [cette video où des gens rentrent dans les duty free des aéroports sans billet veritable](https://www.youtube.com/watch?v=qnq0UfOUTlM)
 
@@ -28,8 +28,8 @@ Parfois certains systèmes informatiques vont directement se reposer sur le fait
 Pour le chiffrement c’est un processus un peu différent.
 Le plus important est de comprendre que toute opération de chiffrement cherche le plus possible a se rapprocher d'un processus qui génère de l'aléatoire. 
 Il y a un algorithme qui donne une série d'instructions à respecter afin de transformer une data ( qu’on peut représenter sous forme de chaîne de caractère ) en une autre chaine de caractère. Cet algorithme a besoin d’une `clé` pour ***chiffrer*** et ***déchiffrer*** le message. 
-Le processus peut être publiquement connu, seule la clé a besoin d'être secrète. Ainsi rot13 est un algorithme de chiffrement, car il l'algaux est connue publiquement. Sa sécurité repose sur le fait que sa cle, le nombre 13, est secrète. 
-Le problème est que cette cle est vraiment très très réduite en possibilité. Et aussi que la cle se répète beaucoup trop souvent.
+Le processus peut être publiquement connu, seule la clé a besoin d'être secrète. Ainsi rot13 est un algorithme de chiffrement, car  l'algo est connue publiquement. Sa sécurité repose sur le fait que sa clé, le nombre 13, est secrète. 
+Le problème est que cette clé est vraiment très très réduite en possibilités. Et aussi que la clé se répète beaucoup trop souvent.
 
 L'une des faiblesses principales de l'être humain du côté cryptographie c'est son incapacité à créer de l'aléatoire et surtout à le retenir. Vous pouvez regarder [cette vidéo](https://www.youtube.com/watch?v=vVXbgbMp0oY) si vous avez besoin d'en être convaincu.
 

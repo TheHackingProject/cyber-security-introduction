@@ -1,7 +1,7 @@
 
 ## 1 Introduction
 
-Ici vous allez devoir déchiffrez le message qui a été chiffré grâce a une méthode de vigenere.
+Ici vous allez devoir déchiffrer le message qui a été chiffré grâce a une méthode de vigenere.
 
 ## 2. Le message a dechiffrer
 ```
@@ -25,4 +25,4 @@ Voici l'analyse de frequence du message original
 
 La notion a retenir ici est qu'il existe une infinité de façons de chiffrer son message, mais dès qu’on va savoir isoler une répétition et en extraire une empreinte par fréquence, le sens caché apparaîtra. 
 
-Ces méthodes vous sont présentées autrement via cette ![vidéo de ScienceEtonnante](https://www.youtube.com/watch?v=z4tkHuWZbRA)
+Ces méthodes vous sont présentées autrement via cette [vidéo de ScienceEtonnante](https://www.youtube.com/watch?v=z4tkHuWZbRA)

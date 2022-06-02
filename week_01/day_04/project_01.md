@@ -1,5 +1,3 @@
-
-
 ## 1. Introduction
 Aujourd'hui vous allez créer un compte sur un blog qui vous empêche de le faire normalement.
 

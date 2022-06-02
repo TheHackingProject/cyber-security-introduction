@@ -39,32 +39,19 @@ Le plus important reste de savoir désactiver l’esprit critique du lecteur. Il
 Comme par exemple une demande venant d’un supérieur, si votre supérieur, ou votre RH vous demande une photocopie de votre carte d’identité pour prendre un ticket de train pour le prochain déplacement, le ferrez-vous avant de vérifier que le mail est bien arrivé par le bon canal, ou même vous demander s’il y a bien un déplacement de prévu ?
 
 
-Les quelques conseils qu’il y a prendre en compte :
-- renseignez vous sur la cible
-comprenez ce qui a de la valeur pour elle. Par exemple, un enseignant/chercheur va plutôt chercher à être publié. Va chercher une renommé pour son travail.
-- renseignez vous sur votre pretexte, le domaine sur lequel il repose
-si vos messages ne semblent pas venir du milieu ou sonne faux vous êtes mort
-- vous pouvez être absolument qui vous voulez du moment que vous savez le faire croire, soyez crédible mais surtout soyez inventif
-- utilisez le plus possible l’actualité, vous avez plus de chance de paraître crédible. Actualité mondiale ou actualité personnel de la cible
-- n’oubliez pas qu’il faut quand même retenir l’attention. Pas être exubérant mais retenir l’attention. Sortir du lot sans sortir du cadre.
-- testez avant, ne vous retrouvez pas dans les spams et regardez comment le mail s’affiche
-- less is more, restez simple
-- restez flexible, si vous êtes inflexible et peu arrangeant on n'aura pas envie de vous aider.
-- demandez ce que vous voulez obtenir. Tout simplement. ( “on aura juste besoin de votre mot de passe pour finir “ ) Il faut que vous ayez l’air d'être légitime à recevoir cette information, que cela vous soit due.
-Il existe encore aujourd’hui  tout un tas de service legitime qui fonctionne avec ce genre de principe. N'ayez pas peur de demander de front ce que vous voulez vraiment, il faut juste bien l'enrober.
-- provoquez une émotion
+Les quelques conseils qu’il y a à prendre en compte :
+- Renseignez vous sur la cible comprenez ce qui a de la valeur pour elle. Par exemple, un enseignant/chercheur va plutôt chercher à être publié. Va chercher une renommé pour son travail.
+- Renseignez vous sur votre pretexte, le domaine sur lequel il repose, si vos messages ne semblent pas venir du milieu ou sonne faux vous êtes mort
+- Vous pouvez être absolument qui vous voulez du moment que vous savez le faire croire, soyez crédibles mais surtout soyez inventifs
+- Utilisez le plus possible l’actualité, vous avez plus de chance de paraître crédibles. Actualité mondiale ou actualité personnelle de la cible
+- N’oubliez pas qu’il faut quand même retenir l’attention. Pas être exubérant mais retenir l’attention. Sortir du lot sans sortir du cadre.
+- Testez avant, ne vous retrouvez pas dans les spams et regardez comment le mail s’affiche
+- Less is more, restez simples
+- Restez flexibles, si vous êtes inflexibles et peu arrangeants on n'aura pas envie de vous aider.
+- Demandez ce que vous voulez obtenir. Tout simplement. ( “on aura juste besoin de votre mot de passe pour finir “ ) Il faut que vous ayez l’air d'être légitimes à recevoir cette information, que cela vous soit due.
 
-Les quelques conseils qu’il y a prendre en compte : 
+Il existe encore aujourd’hui  tout un tas de service legitimes qui fonctionnent avec ce genre de principe. N'ayez pas peur de demander de front ce que vous voulez vraiment, il faut juste bien l'enrober.
 
-- Renseignez-vous sur la cible : comprenez ce qui a de la valeur pour elle. Par exemple, un enseignant-chercheur va plutôt chercher à être publié. Va chercher une renommée pour son travail. 
-- Renseignez-vous sur votre prétexte, le domaine sur lequel il repose si vos messages ne semblent pas venir du milieu ou sonne faux vous êtes mort 
-- Vous pouvez être absolument qui vous voulez du moment que vous savez le faire croire, soyez crédible, mais surtout soyez inventif 
-- Utilisez le plus possible l’actualité, vous avez plus de chance de paraître crédible. Actualité mondiale ou actualité personnelle de la cible 
-- N’oubliez pas qu’il faut quand même retenir l’attention. Ne pas être exubérant, mais retenir l’attention. Sortir du lot sans sortir du cadre. 
-- Testez avant, ne vous retrouvez pas dans les spams et regardez comment le mail s’affiche - Less is more, restez simple 
-- Restez flexibles, si vous êtes inflexibles et peu arrangeants on n'aura pas envie de vous aider. 
-- Demandez ce que vous voulez obtenir. Tout simplement. ( “on aura juste besoin de votre mot de passe pour finir “ ) Il faut que vous ayez l’air d'être légitime à recevoir cette information, que cela vous soit dû. 
-Il existe encore aujourd’hui tout un tas de service légitimes qui fonctionnent avec ce genre de principe. N'ayez pas peur de demander de front ce que vous voulez vraiment, il faut juste bien l'enrober. 
 - Provoquez une émotion
 
 Vous pouvez vous reposer sur plusieurs émotions ou patterns qui vont vous aider à endormir ou assommer l’esprit critique du lecteur
@@ -72,14 +59,14 @@ Vous pouvez vous reposer sur plusieurs émotions ou patterns qui vont vous aider
 ### La chance/rareté
 
 "Profil choisi à la main, accès limité, nombre limité". Si vous donnez une impression véritable que le lecteur a de la chance, c’est bon pour vous. 
-Méfiez-vous, la chance a été vraiment beaucoup utilisée et il y a souvent un réflexe de protection qui suit maintenant ( il y a surement eu trop de princes nigérians millionnaires qui vous lèguent de l’argent dans votre boite mail ) qui ressemble un peu à ça “attends attends pourquoi moi ? Attends attends c’est un truc sérieux ?” 
+Méfiez-vous, la chance a été vraiment beaucoup utilisée et il y a souvent un réflexe de protection qui suit maintenant ( il y a sûrement eu trop de princes nigérians millionnaires qui vous lèguent de l’argent dans votre boite mail ) qui ressemble un peu à ça “attends attends pourquoi moi ? Attends attends c’est un truc sérieux ?” 
 Mais ça marche encore bien quand c’est bien dosé
 
-![amazon_chanceux](https://github.com/bafraikin/ressource_thp_cursus_secu/blob/master/ressources/jour_05/amazon_client.png)
+[amazon_chanceux](https://github.com/bafraikin/ressource_thp_cursus_secu/blob/master/ressources/jour_05/amazon_client.png)
 
-![loyer_pole_emploi](https://github.com/bafraikin/ressource_thp_cursus_secu/blob/master/ressources/jour_05/phishing_loyer.png)
+[loyer_pole_emploi](https://github.com/bafraikin/ressource_thp_cursus_secu/blob/master/ressources/jour_05/phishing_loyer.png)
 avec pour une fois un effet visible dans la presse de la fin de ce processus. [allez lire l'article](https://www.lockimmo.com/blog-immobilier/histoire-jour-larnaque-a-1-370-euros-pole-emploi)
- )
+ 
 
 ### Flatterie
 Quand on est flatté on est plus à même de faire quelque chose sans trop y réfléchir si ça semble anodin 
@@ -89,14 +76,12 @@ Pensez à la fable du corbeau et du renard de Jean de la fontaine
 Si dans un scénario vous arrivez à faire que la personne se sente redevable, c’est bon pour vous. Par exemple lui inventer un problème que vous déclarez comme réglé grâce à vous et il manque un renseignement/une action pour finaliser l'opération (ex-problème edf, gaz, inscription à la fac etc … )
 
 ### Autorité
-Si quelqu’un qui a autorité sur vous vous demande quelque chose, vous y réfléchirez moins ( ex: votre boss, service RH... Mais aussi les services de l’état, la préfecture, la police etc .. )
-
-https://twitter.com/MaximeHaes/status/1436246216157896704?s=20
+Si quelqu’un qui a autorité sur vous vous demande quelque chose, vous y réfléchirez moins ( ex: votre boss, service RH... Mais aussi les services de l’état, la préfecture, [la police](https://twitter.com/MaximeHaes/status/1436246216157896704?s=20) etc .. )
 
 
 ### La peur
 Quand on a peur, on reflechit de manière très très prévisible.
-![mail_paypal](https://github.com/bafraikin/ressource_thp_cursus_secu/blob/master/ressources/jour_05/paypal.png)
+[mail_paypal](https://github.com/bafraikin/ressource_thp_cursus_secu/blob/master/ressources/jour_05/paypal.png)
 
 
 ### Concession
@@ -110,7 +95,7 @@ Les gens aiment aider les gens qui les apprécient et ceux qui les aiment pour c
 L’attraction physique peut même être un plus. Même si on ne vit plus au siècle dernier, ce compliment peut encore très bien marcher.
 
 ### Conformation Social
-Vous avez envie de faire ce que les autres font Si on vous convainc que les autres font quelque chose dans une situation donnée, vous aurez plus envie de faire la même chose.
+Vous avez envie de faire ce que les autres font. Si on vous convainc que les autres font quelque chose dans une situation donnée, vous aurez plus envie de faire la même chose.
 Il existe beaucoup d'expériences qui montrent à quel point on n’aime pas sortir du lot.
 
 ### Altérer la réalité ( framing )
@@ -122,7 +107,7 @@ On voit ceci dans les discours politiques, souvent sur des statistiques ou par e
 ## 4. A retenir
 
 La chose la plus importante à retenir est que l'émotion éteint l'esprit critique de celui qui la subit. Si vous arrivez à en provoquer et anticiper la réaction de la personne en accord avec cette émotion alors vous saurez comment la manipuler.
-Si vous voulez vous protéger contre ce genre d'attaque, il faut rester extrêmement vigilant et faire attention à vos propres actions sous le coup d'une émotion. Vous devriez bien réfléchir avant de faire une action et vous posez au moins une question "Est-ce que je connais tous les tenants et aboutissants de l'action que je compte faire ?". Aussi vous pouvez vous demander "Qui a intérêt à l'action que vous allez faire ?"
+Si vous voulez vous protéger contre ce genre d'attaque, il faut rester extrêmement vigilants et faire attention à vos propres actions sous le coup d'une émotion. Vous devriez bien réfléchir avant de faire une action et vous posez au moins une question "Est-ce que je connais tous les tenants et aboutissants de l'action que je compte faire ?". Vous pouvez aussi vous demander "Qui a intérêt à l'action que je vais effectuer ?"
 
 Et surtout si vous le pouvez, vérifier par un autre canal que l'action demandée ou suggérée entre les lignes est légitime ; ne cliquez pas sur un lien dans un mail qui vous produit une émotion.
 
@@ -136,16 +121,16 @@ Il y raconte comment après avoir créé un virus contenu dans les macros d’un
 Le contexte est ici aussi important que le contenu du mail.
 
 - Le mail a l’air de venir du RH de la boîte. 
-- Le mail a l’air d'être arrivé dans la boîte mail de l’employé par hasard parce que le mail s’adresse à son manager et dit que c’est un sujet confidentiel et que les employés que le manager gère n’ont pas besoin de connaître le contenu de ce mail. - Le mail est le ton de la confidence.
-
--   Le corps du mail ressemble un peu à ceci
+- Le mail a l’air d'être arrivé dans la boîte mail de l’employé par hasard parce que le mail s’adresse à son manager et dit que c’est un sujet confidentiel et que les employés que le manager gère n’ont pas besoin de connaître le contenu de ce mail. 
+- Le mail a le ton de la confidence.
+- Le corps du mail ressemble un peu à ceci
 
 ```
 Salut Eric,
 Comme convenu je te joins la liste des employés dont on va devoir se séparer avec la fusion à venir.
-Comme la fusion avec l'entreprise X est encore secrète, gardez cela pour vous,
+Comme la fusion avec l'entreprise X est encore secrète, garde cela pour toi,
 
-cordialement,
+Cordialement,
 
 Jean Mich du Service RH
 
@@ -164,6 +149,6 @@ J’ai particulièrement aimé **the art of deception** de Kevin Mitnick qui fou
 Ou **Social Engineering the art of human hacking** qui fournit moins d’exemples, mais plus de methodo
 Si vous voulez creuser encore plus il y a une liste de livre sur le site social engineer.org
 
-Je vous conseille ce petit tuto pour filouter encore plus https://mrd0x.com/abusing-google-drives-email-file-functionality/
+Je vous conseille [ce petit tuto ](https://mrd0x.com/abusing-google-drives-email-file-functionality/)pour filouter encore plus 
 
 

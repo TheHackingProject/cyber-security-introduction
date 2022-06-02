@@ -2,7 +2,7 @@
 
 
 ## 1. Introduction
-Vous allez devoir craquer le hash d'un mot de passe grace a un mot de passe que vous connaissez deja et une attaque par dictionnaire.
+Vous allez devoir craquer le hash d'un mot de passe grâce à un mot de passe que vous connaissez déjà et une attaque par dictionnaire.
 
 
 ## 2. Le projet
