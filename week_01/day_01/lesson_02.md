@@ -23,13 +23,13 @@ Bref votre mot de passe est peut-être dans la nature.
 ## 3. Ressources
 
 ### 3.1. Hashes.com
-Il existe un site qui peut aider un peu pour déchiffrer les hashs les plus connus ou les plus faibles. Donc si un mot de passe est très utilisé, il vous suffira de soumettre son hash dans ce site. J'ai nommé [Hashes.com](https://hashes.com)
-Par exemple si vous rentrez le hash **a109e36947ad56de1dca1cc49f0ef8ac9ad9a7b1aa0df41fb3c4cb73c1ff01ea** dans [cette partie du site](https://hashes.com/en/tools/hash_identifier) vous decouvrirez instantanemment d'ou il vient.
-Je vous conseille d’ailleurs de garder ce site sous le coude et **d’explorer ses possibilités**, il vous sera peut être utile aujourd’hui ou cette semaine.
+Il existe plusieurs sites qui peuvent vous aider à obtenir l'origine des hashs que vous rencontrez. Ils pourront seulement vous aiguiller sur les hashs plus connus ou les plus faibles. C'est à dire les hashs venant des phrases et mot de passes les plus utilisés partout dans le monde. Hashes.com est l'un d'entre eux et est mon site preféré en la matière. Il fonctionne tres simplement et je vais vous expliquer comment. Ces sites partent d'une liste des mots de passes les plus utilisés récuperé ici et là lors de differents breachs de databases. (Par exemple celle ci [liste d'un million de mot de passe un peu longue à charger](https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt) )  Puis il les hashe avec les differents algorithmes de hashage connue et les plus communs. Une fois ceci fait, le site possède une liste de correspondance des mots de passes les plus utilisés et les hashes qu'ils donnent. Donc si un mot de passe est très utilisé, et que vous tombez sur son hash il vous suffira de soumettre son hash dans ce [site](https://hashes.com) pour en connaitre l'origine.
+Par exemple si vous rentrez le hash **a109e36947ad56de1dca1cc49f0ef8ac9ad9a7b1aa0df41fb3c4cb73c1ff01ea** dans [cette partie du site](https://hashes.com/en/tools/hash_identifier) vous decouvrirez instantanemment d'où il vient.
+Je vous conseille donc de garder ce site sous le coude et **d’explorer ses possibilités**, il vous sera peut être utile aujourd’hui ou cette semaine.
 
 ### 3.2. HAVEIBEENPWNED
 Pour savoir si un ou plusieurs mots de passe relient a une adresse mail voyez sur le site [Have I Been Pwned](https://haveibeenpwned.com/).
-C'est un site très pratique car il permet de savoir si un mot de passe a leak et de savoir sur quelle base de données il était. Ainsi votre hypothétique mail `exemple@exemple.com` a été reporte comme faisant partie du leak de la base de donne `Army Force Online` de 2016. Il y a donc cette base de données quelque part dans la nature. Et cette base de données inclut notre mail exemple@exemple.com et surement un mot de passe qui lui est associé. Voilà tout ce que Have I Been Pwnd nous apprend.
+C'est un site très pratique car il permet de savoir si un mot de passe a leak et de savoir sur quelle base de données il était. Ainsi votre hypothétique mail `exemple@exemple.com` a été reporte comme faisant partie du leak de la base de donnée `Army Force Online` de 2016. Il y a donc cette base de données quelque part dans la nature. Et cette base de données inclut notre mail exemple@exemple.com et surement un mot de passe qui lui est associé. Voilà tout ce que Have I Been Pwnd nous apprend.
 
 
 ## 4. Points important a retenir.
