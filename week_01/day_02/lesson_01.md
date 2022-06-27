@@ -16,7 +16,7 @@ L'avantage de fonctionner comme ça permet aux utilisateurs de ne pas avoir à r
 Ce que je vous ai decris ici est le type d'enregistrement DNS de type A ou AAA.
 Il existe d’autres types d’enregistrement DNS, mais je vous laisse explorer ça par vous-même si le cœur vous en dit. https://www.techtarget.com/searchnetworking/definition/domain-name-system.
 
-Une fois que vous avez acquis un nom de domaine, vous pourrez enregistrer autant de sous domaine que vous le voudrez. Ainsi thehackingproject enregistré 'formation.thehackingproject', 'www.thehackingproject', 'student.thehackingproject' et bien d'autre.  
+Une fois que vous avez acquis un nom de domaine, vous pourrez enregistrer autant de sous domaine que vous le voudrez. Ainsi thehackingproject a enregistré 'formation.thehackingproject', 'www.thehackingproject', 'student.thehackingproject' et bien d'autre.  
 
 **Si vous avez la flemme de lire ou que vous n'avez pas tres bien compris vous pouvez regardez cette [video](https://www.youtube.com/watch?v=QHVK666TFUI) qui est bien plus complète et expliqué par quelqu'un de beaucoup plus compétente en la matiere que moi.**
 
@@ -53,11 +53,11 @@ Chaque sous-domaine peut être un serveur différent, codé dans des langages di
 Des failles qui n’attendent que vous. Le plus juteux c’est quand un sous-domaine a été oublié depuis longtemps et qu’il est très facile de le hacker parce qu’il existe plein de failles connues dessus et ce sous-domaine devient alors un vecteur d’attaque assez simple, ou une façon d’obtenir des informations en plus.
 
 ## 5 Pour aller plus loins
-Vous pouvez aussi faire du pure scan DNS avec [DNSdumpster](https://dnsdumpster.com)
+Vous pouvez aussi faire du scan DNS avec [DNSdumpster](https://dnsdumpster.com)
 et obtenir des [graphs trop cool](https://dnsdumpster.com/static/graph/google.com-202111181635.html).
 
-J’aime aussi beaucoup Amass qui est un super projet OWASP.
+J’aime aussi beaucoup Amass qui est un super projet OWASP qui compile plusieurs methode à la fois pour obtenir un maximum de domaine et sous domaine.
 
-Parfois vous trouverez des sous-domaines qui ont été supprimés : **blog.thehackingproject.org** a été supprimé ou déplacé. Par contre si vous voulez voir à quoi il ressemblait vous pouvez très bien regarder avec le **cache google** ou dans la [waybackmachine](https://archive.org/web/)
+Parfois vous trouverez des sous-domaines qui ont été supprimés. Comme par exemple **blog.thehackingproject.org** qui a été supprimé ou déplacé. Par contre si vous voulez voir à quoi il ressemblait vous pouvez très bien regarder avec le **cache google** ou dans la [waybackmachine](https://archive.org/web/)
 
 
