@@ -2,12 +2,20 @@
 # DNS crawling/discovery
 
 ## 1. Introduction
-Sur internet vous connaissez tous et toutes des noms de domaines. Comme Google.com ou Yahoo.fr. Mais savez-vous que **wifi.google.com** existe ? Si vous allez sur cet url vous aurez une erreur 404 mais vous noterez qu'en utilisant **fddggg.google.com** vous n'avez pas la même erreur. Ce qui signifie que le nom de domaine wifi.google.com existe bien. C'est juste que vous n'utilisez pas bien l'adresse.
+Sur internet vous connaissez tous et toutes des noms de domaines. Un nom de domaine ça ressemble à ça 'Google.com' ou 'Yahoo.fr'.  Mais savez-vous que **wifi.google.com** existe ? Si vous allez sur cette url vous aurez une erreur 404 mais vous noterez qu'en utilisant **fddggg.google.com** vous n'avez pas la même erreur. Ce qui signifie que le nom de domaine wifi.google.com existe bien. C'est juste que vous n'utilisez pas bien l'adresse. Quand je dis que vous ne l'utilisez pas bien cela veut dire que vous n'utilisez pas le bon protocol (puisque par defaut votre navigateur envoie une requete http aux serveurs) ou le bon port 
+( par defaut votre navigateur envoi une requete sur le port 80 ou 443 )
+
 
 ## 2. Historique et contexte
-Pour l’exploration plus en profondeur on va parler du DNS et partir à la recherche des sous-domaines d’un site. 
-Le DNS ou Domain Name System c’est le concept roi que tout le monde utilise sans vraiment le connaître. Pour faire simple, un enregistrement DNS c’est par exemple “thehackingproject.org”. Il est enregistré dans le registre “.org” qui est géré par “PIR” ( Public Interest Registry”. Une fois que vous avez acquis cet enregistrement vous pouvez dire que **thehackingproject.org** va être un raccourci ou un alias vers le serveur qui héberge le site de *thehackingproject* ça permet aux utilisateurs de ne pas avoir à retenir l’adresse IP exacte et ça permet de changer d’adresse IP et donc de serveur quand on le veut sans avoir à apprendre à tout le monde une nouvelle adresse IP.
+Pour une exploration plus en profondeur on va parler du DNS et partir à la recherche des sous-domaines d’un domaine donné. 
+Le DNS ou Domain Name System c’est le concept roi que tout le monde utilise sans vraiment le connaître. Pour faire simple, un enregistrement DNS c’est par exemple “thehackingproject.org”. 'TheHackingProject' est un nom de domaine qui a été enregistré dans le registre “.org” qui est géré par “PIR” ( Public Interest Registry). C'est un service que quelqu'un a payé et qu'il renouvelle annuellement. Une fois que cette personne a acquis cet enregistrement vous pouvez dire que **thehackingproject.org** va être un raccourci ou un alias vers le serveur web qui héberge un site. 
+
+Ainsi un nom de domaine va etre une ligne dans un registre qui va faire correspondre un nom avec une adresse IP. Cette enregistrement fonctionne comme cela: Quand on demande d'acceder à un nom de domaine, une requete est faite au registre qui stocke l'information de ce nom de domaine afin de récuperer l'adresse IP du serveur avec lequel on veut communiquer. Une fois l'adresse IP recuperé on va envoyé une seconde requete au serveur web grace à cette adresse IP.
+
+L'avantage de fonctionner comme ça permet aux utilisateurs de ne pas avoir à retenir l’adresse IP exacte. Et permet de changer d’adresse IP et aussi de serveur quand on le veut sans avoir à apprendre à tout le monde une nouvelle adresse IP.
+Ce que je vous ai decris ici est le type d'enregistrement DNS de type A ou AAA.
 Il existe d’autres types d’enregistrement DNS, mais je vous laisse explorer ça par vous-même si le cœur vous en dit. https://www.techtarget.com/searchnetworking/definition/domain-name-system.
+Si vous avez la flemme de lire ou que vous n'avez pas tres bien compris vous pouvez regardez cette [video](https://www.youtube.com/watch?v=QHVK666TFUI) qui est bien plus complète et expliqué par quelqu'un de beaucoup plus compétente en la matiere que moi.
 
 ## 3 Le crawling DNS
 
