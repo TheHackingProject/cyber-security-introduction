@@ -15,7 +15,9 @@ Ainsi un nom de domaine va etre une ligne dans un registre qui va faire correspo
 L'avantage de fonctionner comme ça permet aux utilisateurs de ne pas avoir à retenir l’adresse IP exacte. Et permet de changer d’adresse IP et aussi de serveur quand on le veut sans avoir à apprendre à tout le monde une nouvelle adresse IP.
 Ce que je vous ai decris ici est le type d'enregistrement DNS de type A ou AAA.
 Il existe d’autres types d’enregistrement DNS, mais je vous laisse explorer ça par vous-même si le cœur vous en dit. https://www.techtarget.com/searchnetworking/definition/domain-name-system.
-Si vous avez la flemme de lire ou que vous n'avez pas tres bien compris vous pouvez regardez cette [video](https://www.youtube.com/watch?v=QHVK666TFUI) qui est bien plus complète et expliqué par quelqu'un de beaucoup plus compétente en la matiere que moi.
+
+
+**Si vous avez la flemme de lire ou que vous n'avez pas tres bien compris vous pouvez regardez cette [video](https://www.youtube.com/watch?v=QHVK666TFUI) qui est bien plus complète et expliqué par quelqu'un de beaucoup plus compétente en la matiere que moi.**
 
 ## 3 Le crawling DNS
 
