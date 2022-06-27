@@ -26,9 +26,9 @@ Une fois que vous avez acquis un nom de domaine, vous pourrez enregistrer autant
 Le crawling DNS qu'est ce que c'est ? Quel est son objectif ? 
 Son objectif est de découvrir un maximum de noms de domaine et sous-domaines que peut regrouper une organisation ou une cible. Normalement c'est impossible de découvrir un enregistrement DNS qu'on ne nous communique pas. Il n'existe pas de façon de consulter la liste de tous les sites en `.fr`
 Vous pouvez toujours brute force en utilisant des mots courants comme `table.fr` et voir si ça redirige vers une adresse IP mais c'est très limité. Ce qui nous intéresse c'est d'utiliser des techniques un peu plus stables. Il existe beaucoup de façon de faire du crawling. Sachez qu'il faut toujours ruser. Chercher les traces de l'existence de sous-domaine sur le net. 
-Une des plus simples c'est de demander a Google quels sous-domaines il connait.
+Une des plus simples c'est de demander à Google quels sous-domaines il connait.
 
-Par exemple:
+Par exemple   avec la requete suivante:
 ```
 site:*.@thehackingproject.org -www
 ```
