@@ -3,8 +3,7 @@ Cours explicatif sur le module cybersécurité.
 
 ## Introduction
 
-Bonjour à toutes et tous. Nous sommes très contents de vous accueillir cette semaine pour notre cours **sensibilisation à la cybersécurité**.
-Le programme va être chargé et plutôt relevé. Pour faire très simple vous allez apprendre l'entièreté de [ce glossaire](https://www.ssi.gouv.fr/administration/glossaire/) de l'ANSSI.
+Bonjour à toutes et tous. Nous sommes très contents de vous accueillir cette semaine pour notre cours **sensibilisation à la cybersécurité**. Le programme va être chargé et plutôt relevé. Pour faire très simple vous allez apprendre l'entièreté de [ce glossaire](https://www.ssi.gouv.fr/administration/glossaire/) de l'ANSSI.
 
 En fin de semaine une bonne grosse interro et bisous. Fin du cours. Rideau. Tchao les amis. Ça nous a fait plaiz' de vous enseigner tout ça.
 
@@ -12,7 +11,7 @@ En fin de semaine une bonne grosse interro et bisous. Fin du cours. Rideau. Tcha
 
 
 ## Bref.
-Cette semaine vous allez découvrir une certaine partie de la cybersécurité. Cette partie de la cybersécurité peut être réduite à la dénomination “Recherche en Source Ouverte” ou **OSINT** ( open source intelligence technique ). En réalité, le dernier jour ira un peu plus loin et nous verrons un peu d'ingénierie sociale ( social engineering ) mais OSEF.
+Cette semaine vous allez découvrir une certaine partie de la cybersécurité. Cette partie de la cybersécurité peut être réduite à la dénomination “Recherche en Source Ouverte” ou **OSINT** (open source intelligence technique). En réalité, le dernier jour ira un peu plus loin et nous verrons un peu d'ingénierie sociale (social engineering).
 
 L’objectif à travers ce cours c’est vous apprendre à quel point cela peut être facile de trouver un **vecteur d’attaque** envers vous ou votre entreprise. Comprenez bien que le but n'est pas de faire de vous des hackers, mais de vous montrer l'étendue des possibilités qu'une personne informée a.
 
@@ -21,32 +20,33 @@ Comme toujours ; l'information c'est le pouvoir. Et vous apprendrez ceci par l'e
 
 ![chien](https://raw.githubusercontent.com/bafraikin/ressource_thp_cursus_secu/master/ressources/jour_01/dog.jpg)
 
-Aussi, l'objectif de ce cours n'est pas de faire de vous des hackeurs éthiques complets.
-Déjà parce qu'il n'y a pas le temps en une semaine. Ensuite parce que l'ambition de ce cours c'est de **vous sensibiliser à la cybersécurité**. Et pour cela rien de mieux que de se rendre  compte du danger. Plutôt que de faire de vous un hackeur très très technique. Nous avons décidé de vous enseigner que **tous les moyens sont bons quand on est un attaquant**. Ainsi **l'important n'est pas le chemin, mais l'arrivée**. Parfois, ça peut être très très simple, et c'est pour démontrer ceci que pour la plupart du cours nous allons nous limiter à l'utilisation d'un navigateur internet. Mais ce n'est pas pour ça que vous n'apprendrez pas à repérer et **exploiter des failles de sécurité**, ni à récupérer les mots de passes de votre papy ou d'autres encore.
+Aussi, l'objectif de ce cours n'est pas de faire de vous des hackers éthiques complets. Déjà parce qu'il n'y a pas le temps en une semaine. Ensuite parce que l'ambition de ce cours c'est de **vous sensibiliser à la cybersécurité**. Et pour cela rien de mieux que de se rendre compte du danger. Plutôt que de faire de vous un hacker très très technique. Nous avons décidé de vous enseigner que **tous les moyens sont bons quand on est un attaquant**. Ainsi **l'important n'est pas le chemin, mais l'arrivée**. Parfois, ça peut être très très simple, et c'est pour démontrer ceci que pour la plupart du cours nous allons nous limiter à l'utilisation d'un navigateur internet. Mais ce n'est pas pour ça que vous n'apprendrez pas à repérer et **exploiter des failles de sécurité**, ni à récupérer les mots de passe de votre papy ou d'autres encore.
 
-Pour ce que nous attendons de vous pendant le cours, c'est surtout d'être **indépendant**. N'hésitez pas à travailler en groupe et à partager avec les autres ( sauf les réponses ). Les exercices pratiques sont conçus pour être résolus **en groupe**. Répartissez-vous le travail et travaillez en équipe dès que vous sentez que c'est possible. C'est normal de bloquer parfois. Préserverez et/ou réfléchir autrement peu vous aider. Tout ne vous sera pas donné clé en main.
+Pour ce que nous attendons de vous pendant le cours, c'est surtout d'être **indépendant**. N'hésitez pas à travailler en groupe et à partager avec les autres (sauf les réponses). Les exercices pratiques sont conçus pour être résolus **en groupe**. Répartissez-vous le travail et travaillez en équipe dès que vous sentez que c'est possible. C'est normal de bloquer parfois. Préserverez et/ou réfléchir autrement peu vous aider. Tout ne vous sera pas donné clé en main.
+
 Il n'est pas nécessaire de coder quelque chose pour ce cours. Normalement vous saurez toujours trouver un outil tout fait pour vous. L'open source est un monde fantastique pour les hackers. Il faut juste savoir le chercher.
 
 
 ## Les précautions à prendre
-- Faites attention à vous, vous pouvez très bien **chercher et télécharger un virus et l'exécuter sans le savoir**.
+
+Faites attention à vous, vous pouvez très bien **chercher et télécharger un virus et l'exécuter sans le savoir**.
 
 ![PIETE](https://www.memecreator.org/static/images/memes/4900025.jpg)
 
 **Si** vous vous retrouvez dans la situation où vous avez téléchargé un fichier.
 
-Avant de l'ouvrir, analysez le fichier sur [virustotal](https://www.virustotal.com/gui/home/upload). Et si possible, lisez le code avant de l'executer.
+Avant de l'ouvrir, vous pouvez analyser le fichier sur [virustotal](https://www.virustotal.com/gui/home/upload). Et si possible, lisez le code avant de l'exécuter.
 
 ![pitié](https://c.tenor.com/OBSd0JyDRbQAAAAC/what-he-said-regina-hall.gif)
 
 - De préférence travaillez sur un ordinateur qui peut être reboot facilement et qui ne contient rien auquel vous tenez. Ou au pire, faites un backup.
 - Travaillez sur un PC un maximum à jours, avec un navigateur internet à jours. Faites-y gaffe.
 
-**Le mieux pour le cours est un pc qui a un OS linux**. Nous conseillons Ubuntu, c'est le plus simple à installer et qui est le plus proche de Kali linux (OS de cybersecurité).
+**Le mieux pour le cours est un pc qui a un OS Linux**. Nous conseillons Ubuntu, c'est le plus simple à installer et qui est le plus proche de Kali Linux (OS de cybersécurité).
 
-Ça va vous permettre d'installer absolument tout les outils dont vous avez besoin sans la galère d'installer kali.
+Ça va vous permettre d'installer absolument tous les outils dont vous avez besoin sans la galère d'installer kali.
 
-Parfois il vous sera demandé de rédiger quelque chose pour expliquer votre processus, c'est très important. En cybersécurité il faut toujours écrire un "write up"/rapport quand on découvre quelque chose. Pour que les gens qui vont devoir régler le problème par la suite puissent bien comprendre comment vous avez fait et surtout puissent s'approprier la faille, afin de la reproduire facilement et corriger d'eux-mêmes. C'est le moment où vous partagerez vos connaissances et ce que vous avez appris.
+Parfois il vous sera demandé de rédiger quelque chose pour expliquer votre processus, c'est très important. En cybersécurité, il faut toujours écrire un "write up"/rapport quand on découvre quelque chose. Pour que les gens qui vont devoir régler le problème par la suite puissent bien comprendre comment vous avez fait et surtout puissent s'approprier la faille, afin de la reproduire facilement et corriger d'eux-mêmes. C'est le moment où vous partagerez vos connaissances et ce que vous avez appris.
 
 Ce cours a aussi pour objectif de vous apprendre 2-3 bonnes pratiques et choses à observer pour vous protéger vous et vos proches.
 
@@ -60,4 +60,4 @@ Sachez aussi que pendant l'entièreté du cours, **certaines images pourraient c
 
 ![hacker](https://raw.githubusercontent.com/bafraikin/ressource_thp_cursus_secu/master/ressources/jour_01/Hacker.jpg)
 
-*J'espère que tout le monde a enfilé son meilleur hoodie de hacker, sa distro linux de prête, ça commence.*
+*J'espère que tout le monde a enfilé son meilleur hoodie de hacker, sa distro Linux de prête, ça commence.*

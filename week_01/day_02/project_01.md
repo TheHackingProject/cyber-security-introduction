@@ -13,13 +13,13 @@ Ensuite réussir a trouver un compte d'un utilisateur sur internet pour vous con
 ### 2.2 Exploit
 Sur le site une fois connectés, vous allez créer un utilisateur qui a le nom de votre équipe.
 
-### 2.3 Rediger un rapport
+### 2.3 Rédiger un rapport
 
 Il va vous falloir publier un article qui contiendra juste les noms des personnes dans votre équipe et une rédaction de comment vous vous y êtes pris. Même règle qu'hier. ` Il faut que votre grand-mère puisse comprendre. `
 L'article que vous avez écrit doit être laissé en brouillon. C'est la date de modification qui fera foi.
 
 ## 3 Le rendu
-L'article que vous avez rediger et laisser en brouillon sur le blog.
+L'article que vous avez rédigé et laissé en brouillon sur le blog.
 
 **Bonne chance.**
 

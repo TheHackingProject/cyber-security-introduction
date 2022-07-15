@@ -1,4 +1,4 @@
-# Ingéniérie sociale
+# Ingénierie sociale
 Vous allez pirater un membre de votre promo pour mieux l'aider à se défendre.
 
 ## 1. Introduction
@@ -12,7 +12,7 @@ Enquêtez sur votre cible, connaissez ses hobbies et ses objectifs professionnel
 Partez d'un compte github, LinkedIn, un pseudo ou ce que vous voulez.
 
 ### 2.2 Armemement
-Essayez d'envoyer à votre collègue un super mail de phishing qui pourrait le pousser à agir sous le coups d'une émotion.
+Essayez d'envoyer à votre collègue un super mail de phishing qui pourrait le pousser à agir sous le coup d'une émotion.
 
 ## 3 Compte rendu
 Rédigez aussi une compilation des infos et des sources qui vous ont aiguillées pour rédiger votre mail.

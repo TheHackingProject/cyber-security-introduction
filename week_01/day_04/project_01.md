@@ -13,5 +13,4 @@ Dans l'ordre vous devrez :
 - Laissez l'article en brouillon.
 
 ## 3. Improvise, adapt, overcome
-Devenez admin et faites-le savoir. (Ne détruisez pas le site svp, ce n’est pas cool pour vos camarades).
-Expliquez ce que vous avez fait dans un article que vous rendrez le lendemain sur le discord.
+Devenez admin et faites-le savoir. (Ne détruisez pas le site svp, ce n’est pas cool pour vos camarades). Expliquez ce que vous avez fait dans un article que vous rendrez le lendemain sur le discord.

@@ -7,14 +7,13 @@ Vous allez devoir craquer le hash d'un mot de passe grâce à un mot de passe qu
 
 
 ## 2. Le projet
-### Craquer mon nouveau mot de passe grace a mon ancien mot de passe
+### Craquer mon nouveau mot de passe grâce à mon ancien mot de passe
 
 Aujourd’hui vous allez partir de mon ancien mot de passe de l'autre jour. Si vous ne savez pas, vous pouvez l'obtenir à partir de [ce site](https://breachdirectory.org/) et de mon adresse mail `baptiste.fraikinfranklin@laposte.net`
 
 Vous aurez un petit hash à cracker, mais ce sera bien plus simple. *Souvenez-vous de hashes.com*
 
-Maintenant que vous possédez mon ancien mot de passe.
-À partir de celui-ci vous allez essayer de cracker le hash suivant pour obtenir le mot de passe originel. ``` 3718ac27830f8a8b5c514bf055327e4a19072ed8ea5586e3f145df7ca09bdcc82d46faf809cf3a2f40301175eff47daf2af7dde33ee400698e608f88a79089df ```
+Maintenant que vous possédez mon ancien mot de passe. À partir de celui-ci vous allez essayer de cracker le hash suivant pour obtenir le mot de passe originel. `3718ac27830f8a8b5c514bf055327e4a19072ed8ea5586e3f145df7ca09bdcc82d46faf809cf3a2f40301175eff47daf2af7dde33ee400698e608f88a79089df`
 
 ***à vous de trouver les outils nécessaires.***
 
