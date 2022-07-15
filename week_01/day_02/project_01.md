@@ -1,4 +1,5 @@
-
+# Infos cachées
+Dans ce projet, tu vas trouver de l'information cachée.
 
 ## 1 Introduction
 Aujourd’hui vous allez devoir réussir à hacker sur un site de blog.
@@ -14,7 +15,7 @@ Sur le site une fois connectés, vous allez créer un utilisateur qui a le nom d
 
 ### 2.3 Rediger un rapport
 
-Il va vous falloir publier un article qui contiendra juste les noms des personnes dans votre équipe et une rédaction de comment vous vous y êtes pris. Même règle qu'hier. ` Il faut que votre grand-mère puisse comprendre. ` 
+Il va vous falloir publier un article qui contiendra juste les noms des personnes dans votre équipe et une rédaction de comment vous vous y êtes pris. Même règle qu'hier. ` Il faut que votre grand-mère puisse comprendre. `
 L'article que vous avez écrit doit être laissé en brouillon. C'est la date de modification qui fera foi.
 
 ## 3 Le rendu

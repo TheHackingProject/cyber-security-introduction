@@ -1,17 +1,18 @@
-#Jour 2 Google dorks et reconnaissance
+# Google dorks et reconnaissance
+L'utilisation pro de Google Dorks.
 
 ## 1. Introduction
-Il est possible sur internet de faire des recherches grâce à des moteurs de recherches, mais savez-vous que vous pouvez aussi rechercher directement qui est vulnérable à votre faille préférée ? 
+Il est possible sur internet de faire des recherches grâce à des moteurs de recherches, mais savez-vous que vous pouvez aussi rechercher directement qui est vulnérable à votre faille préférée ?
 
-Aujourd’hui vous allez apprendre à explorer le web et à utiliser Google comme vous ne l’avez jamais connu. 
-C’est aujourd’hui que vous allez vraiment retourner le web entièrement pour retrouver le site web vulnérable de vos rêves. 
+Aujourd’hui vous allez apprendre à explorer le web et à utiliser Google comme vous ne l’avez jamais connu.
+C’est aujourd’hui que vous allez vraiment retourner le web entièrement pour retrouver le site web vulnérable de vos rêves.
 Vous utiliserez aussi les connaissances d’hier.
 
 ![image](https://media4.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif)
 
 ## 2. Historique  et contexte
 
-Les moteurs de recherche indexent d'eux-mêmes les informations et les sites disponibles sur le net. Et surtout, ils permettent de rechercher dans cette masse d'information qu'ils possèdent. Ils permettent aussi de spécifier précisément quel type de contenu ou dans quelle zone vous voulez rechercher. 
+Les moteurs de recherche indexent d'eux-mêmes les informations et les sites disponibles sur le net. Et surtout, ils permettent de rechercher dans cette masse d'information qu'ils possèdent. Ils permettent aussi de spécifier précisément quel type de contenu ou dans quelle zone vous voulez rechercher.
 Ce mécanisme peut être abusé et tourné à votre avantage.
 
 

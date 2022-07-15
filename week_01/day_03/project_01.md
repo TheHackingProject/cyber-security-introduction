@@ -1,3 +1,5 @@
+# Déchiffrer
+Un projet pour s'entraîner à déchiffrer.
 
 ## 1 Introduction
 
@@ -23,6 +25,6 @@ Voici l'analyse de frequence du message original
 **Retrouvez la clé que j’ai utilisée pour chiffrer ce message.**
 
 
-La notion a retenir ici est qu'il existe une infinité de façons de chiffrer son message, mais dès qu’on va savoir isoler une répétition et en extraire une empreinte par fréquence, le sens caché apparaîtra. 
+La notion a retenir ici est qu'il existe une infinité de façons de chiffrer son message, mais dès qu’on va savoir isoler une répétition et en extraire une empreinte par fréquence, le sens caché apparaîtra.
 
 Ces méthodes vous sont présentées autrement via cette [vidéo de ScienceEtonnante](https://www.youtube.com/watch?v=z4tkHuWZbRA)

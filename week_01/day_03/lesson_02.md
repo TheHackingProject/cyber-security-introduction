@@ -1,3 +1,4 @@
+# Chiffrement et encodage
 
 ## 1 Introduction
 On va d'abord chercher à donner la différence entre chiffrement et encodage. Puis vous apprendrez que l'humain est incapable de générer de l'aléatoire et de le retenir de manière efficiente. Et donc qu'à partir d'une somme d'informations il est souvent possible de deviner le mot de passe de quelqu'un. Grâce à une attaque par dictionnaire.

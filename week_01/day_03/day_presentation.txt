@@ -1,2 +1,1 @@
-Vous apprendrez ce qu'est le chiffrement et ce qui peut le rendre faible.
-Ensuite vous apprendrez comment aujourd'hui on crack des mots de passes
+Vous apprendrez ce qu'est le chiffrement et ce qui peut le rendre faible. Ensuite vous apprendrez comment aujourd'hui on crack des mots de passes
