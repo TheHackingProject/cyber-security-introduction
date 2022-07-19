@@ -47,7 +47,7 @@ Chaque sous-domaine peut être un serveur différent, codé dans des langages di
 
 ## 5 Pour aller plus loin
 Vous pouvez aussi faire du scan DNS avec [DNSdumpster](https://dnsdumpster.com)
-et obtenir des [graphs trop cool](https://dnsdumpster.com/static/graph/google.com-202111181635.html).
+et obtenir des graphs trop cool.
 
 J’aime aussi beaucoup Amass qui est un super projet OWASP qui compile plusieurs méthodes à la fois pour obtenir un maximum de domaine et sous-domaine.
 
