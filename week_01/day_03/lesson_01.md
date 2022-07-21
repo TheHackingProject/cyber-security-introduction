@@ -29,7 +29,7 @@ Une empreinte c’est la fréquence d’apparition d’une lettre dans la langue
 
 
 ## 4. Points importants à retenir
-Si vous avez un texte que vous suspectez d’être en Français et que l'empreinte ressemble à celle que nous avons vue dans ce cours, mais que les lettres ne sont pas celles attendues, on va facilement pouvoir retrouver le sens du message original.
+Si vous avez un texte que vous suspectez d’être en Français et que l'empreinte ressemble à celle que nous avons vue dans la précedente partie. Mais que les lettres ne sont pas celles attendues, on va facilement pouvoir retrouver le sens du message original.
 
 Ainsi si la lettre la plus utilisée dans le message est très clairement le `r` alors on peut s'imaginer que le `r` a remplacé le `e` et donc que la rotation est de 13, car `r - e = m` ou encore `18 - 5 = 13`. À partir de là, le message est déchiffrable. Simplement.
 
