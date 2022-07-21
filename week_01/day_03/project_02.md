@@ -15,6 +15,9 @@ Vous aurez un petit hash à cracker, mais ce sera bien plus simple. *Souvenez-vo
 
 Maintenant que vous possédez mon ancien mot de passe. À partir de celui-ci vous allez essayer de cracker le hash suivant pour obtenir le mot de passe originel. `3718ac27830f8a8b5c514bf055327e4a19072ed8ea5586e3f145df7ca09bdcc82d46faf809cf3a2f40301175eff47daf2af7dde33ee400698e608f88a79089df`
 
+
+ps: ce n'est pas forcement un hash SHA....
+
 ***à vous de trouver les outils nécessaires.***
 
 ## 3. Rendu
