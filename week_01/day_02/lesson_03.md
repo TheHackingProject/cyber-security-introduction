@@ -12,7 +12,7 @@ Vous avez ici la raison d'être du fuzzing.
 
 
 ## 3. Les outils
-Pour fuzz un website j'utilise géneralement dirbuster, gobuster ou encore wfuzz. Le tout est d'avoir un bon dictionnaire de mot ou autrement appelée **wordlist**.
+Pour fuzz un website j'utilise géneralement *dirbuster*, *gobuster* ou encore *wfuzz*. Mais il en existe d'autres. Le tout est d'avoir un bon dictionnaire de mot ou autrement appelée **wordlist**.
 
 La façon d'utiliser d'utiliser ces outils ressemble un peu à cela.
 
@@ -27,5 +27,10 @@ Vous pouvez aussi rajouter une extension pour rechercher des fichiers et d'autre
 ```
 > ./outil --wordlist /path/wordlist --url https://example.com/FUZZ.txt
 ```
+
+## 4. Pour aller plus loins
+Sachez que vous pouvez fuzz sur n'importe quel champ d'une requete HTTP classique. Les cookies, les paramètres de la requête **GET**, les headers et leurs valeurs ( par exemple le user-agent) les sous domaines etc...
+
+
 
 
