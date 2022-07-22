@@ -61,7 +61,7 @@ Mais ça marche encore bien quand c’est bien dosé
 [amazon_chanceux](https://github.com/bafraikin/ressource_thp_cursus_secu/blob/master/ressources/jour_05/amazon_client.png)
 
 [loyer_pole_emploi](https://github.com/bafraikin/ressource_thp_cursus_secu/blob/master/ressources/jour_05/phishing_loyer.png)
-avec pour une fois un effet visible dans la presse de la fin de ce processus. [allez lire l'article](https://www.lockimmo.com/blog-immobilier/histoire-jour-larnaque-a-1-370-euros-pole-emploi)
+avec pour une fois un effet visible dans la presse de la fin de ce processus. [allez lire l'article](https://phgarin.wordpress.com/2018/03/03/arnaque-a-lemploi-recevoir-des-loyers/)
 
 
 ### Flatterie
