@@ -9,7 +9,8 @@ Dans l'ordre vous devrez :
 
 - Exploitez une faille du blog de cuisine de THP.
 - Créez-vous un compte "contributeur"
-- Écrivez un article qui explique votre processus. Signez avec les noms des personnes de votre groupe.
+- Écrivez un compte rendu en bon et due forme. Ce jour est validant et vous allez être évalué sur votre compte rendu. 
+- Laissez votre compte rendu dans un pastebin qui s'autodetruira dans 1 semaine et rendez ce lien à la fin de journée. 
 - Laissez l'article en brouillon.
 
 ## 3. Improvise, adapt, overcome
