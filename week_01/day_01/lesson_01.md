@@ -56,8 +56,12 @@ Sachez que ce que vous allez apprendre très bientôt est dangereux. De par la f
 
 Sachez aussi que pendant l'entièreté du cours, **certaines images pourraient cacher des indices**. Ça peut vous débloquer si vous vous retrouvez devant quelque chose de trop retors, mais préférez demander des indices aux gens qui font le cours en même temps que vous. Pour accéder à ces indices par vous-même, je vous recommande de vous renseigner sur les **métadonnées des images et EXIF**.
 
+Je vous conseille de n'utiliser les indices qu'en dernier recours, sinon vous n'apprendriez rien. 
+
 *Vous devriez trouver un message dans les deux photos d'illustration de ce cours qui vous dit que ça fonctionne bien*
 
 ![hacker](https://raw.githubusercontent.com/bafraikin/ressource_thp_cursus_secu/master/ressources/jour_01/Hacker.jpg)
 
 *J'espère que tout le monde a enfilé son meilleur hoodie de hacker, sa distro Linux de prête, ça commence.*
+
+
