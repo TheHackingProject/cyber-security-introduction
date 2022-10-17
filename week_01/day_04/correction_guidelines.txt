@@ -4,3 +4,11 @@ Bonjour, Ce matin c'est les corrections.
 Vous allez acceder au compte rendu de votre corrigé et le lire entièrement avec lui.
 
 Celui doit pouvoir vous expliquer ce compte rendu. Il doit pouvoir vous presenter sa méthode de travail et son processus de pensée à l'oral.
+
+Verifier que vous avez tout ce qu'il vous faut dans un compte rendu
+A savoir:
+- Le perimètre de l'audit effectué
+- les failles isolés et détaillés
+- Des conseils pour savoir comment régler ces failles
+- Le processus suivi par le hackeur pour trouver ces failles
+- La méthodologie exacte, pour vous permettre à partir du compte rendu de rejoueur la faille de sécurité en question.
