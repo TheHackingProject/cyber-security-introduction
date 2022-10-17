@@ -12,6 +12,7 @@ Dans l'ordre vous devrez :
 - Écrivez un compte-rendu en bon et due forme. Ce compte rendu doit être adressé à l'entreprise que vous avez testé.
  
 **Si vous ne savez plus comment rédiger un bon compte rendu, il devrait y avoir une note qui vous explique tout ça dans la 1ère journée de ce cours.**
+
 Ce jour est validant et vous allez être évalué sur votre compte rendu. 
 - Laissez votre compte rendu dans un Pastebin qui s'autodetruira dans 1 semaine et rendez ce lien à la fin de journée. 
 
